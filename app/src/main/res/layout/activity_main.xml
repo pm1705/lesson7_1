@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:onClick="sendToUrl"
-            android:text="go to page" />
+            android:text="Go" />
     </LinearLayout>
 
     <WebView
